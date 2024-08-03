@@ -31,7 +31,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "header_cli"
+name = "congen"
 version = "0.1.0"
 dependencies = [
  "clipboard",
